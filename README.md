@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Amit Wieder
 - 👀 I’m interested in finding my field within Computer Science, whether Robotics, AI, or something else.
-- 🌱 I’m currently learning Data Structures in C++ and Python
 - 💞️ I’m looking to collaborate on all kinds of fun projects
 - 📫 How to reach me: wiederamit@gmail.com
 - 😄 Pronouns: He/Him
